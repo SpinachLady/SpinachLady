@@ -1,0 +1,38 @@
+button {
+    background-color: rgb(207, 201, 248);
+    border-color: rgb(148, 135, 228);
+    height: 50px;
+    width: 50px;
+    font-size: large;
+    margin-bottom: 5px;
+}
+h1 {
+    position: relative;
+    width: 280px;
+    left: 475px;
+    top: 30px;
+}
+.storknapp {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 212px;
+    background-color: rgb(148, 135, 228);
+    border-color:rgb(65, 48, 177);
+}
+#resultat {
+    width: 200px;
+    height: 38px;
+    font-size: 40px;
+    text-align: right;
+    padding: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(65, 48, 177);
+}
+
+.kalkylator {
+    position: relative;
+    top: 50px;
+    left: 500px;
+    width: 212px;
+}
